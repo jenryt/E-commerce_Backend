@@ -4,10 +4,10 @@
 
 ## Description
 
-This application serves as the backend system for an e-commerce platform, providing the necessary functionality to manage products, categories, and tags.
-In today's world, e-commerce plays a significant role in online activities, serving as a primary method of shopping for many users. A well-organized backend system is crucial for supporting a pleasant user experience and ensuring smooth frontend operations.
-This application focuses on two major ways of searching for products: by categories and tags. Products are organized into different categories, allowing users to browse and filter items based on their preferences. Additionally, tags provide another layer of classification, enabling users to search for products based on specific characteristics or attributes.
-The E-Commerce Backend application is built with Node.js and utilizes a MySQL database to store product, category, and tag data. It offers a range of API endpoints to perform CRUD operations (Create, Read, Update, Delete) for managing products, categories, and tags.
+This application serves as the backend system for an e-commerce platform, providing the necessary functionality to manage products, categories, and tags.<br><br>
+In today's world, e-commerce plays a significant role in online activities, serving as a primary method of shopping for many users. A well-organized backend system is crucial for supporting a pleasant user experience and ensuring smooth frontend operations.<br><br>
+This application focuses on two major ways of searching for products: by categories and tags. Products are organized into different categories, allowing users to browse and filter items based on their preferences. Additionally, tags provide another layer of classification, enabling users to search for products based on specific characteristics or attributes.<br><br>
+The E-Commerce Backend application is built with Node.js and utilizes a MySQL database to store product, category, and tag data. It offers a range of API endpoints to perform CRUD operations (Create, Read, Update, Delete) for managing products, categories, and tags.<br>
 
 ## Table of Contents
 
