@@ -13,7 +13,7 @@ Category.init(
       autoIncrement: true,
       // primaryKey is not nullable, hence allowNull:false is not necessary
     },
-    name: {
+    category_name: {
       type: DataTypes.STRING,
       allowNull: false,
     },
