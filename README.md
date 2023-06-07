@@ -35,7 +35,7 @@ The E-Commerce Backend application is built with Node.js and utilizes a MySQL da
 3. Ensure to provide the correct keys when making PUT and POST requests.
 
 Please find attached video demonstrating the installation of our application.<br>
-https://drive.google.com/file/d/1KMP9E4wxp6sIXdzY1teaNSdA8crK4dR4/view
+https://drive.google.com/file/d/1KMP9E4wxp6sIXdzY1teaNSdA8crK4dR4/view <br>
 Please find attached demo video showcasing the functionality of our application.<br>
 https://drive.google.com/file/d/1lJCiDGlvhkoJbtR09zXsWwekH3VbqCLi/view <br>
 ![application demo image Categories GET all](./assets/images/categoriesGET_all.png)
